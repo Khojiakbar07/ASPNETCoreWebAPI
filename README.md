@@ -9,4 +9,7 @@ See the examples here:
 
 ## Versions
 
-``` http://localhost:5043/swagger ```
+``` https://localhost:7046/swagger/ ```
+
+![image](https://github.com/user-attachments/assets/d61189e0-9457-401f-84c5-d8c6c127ce46)
+

@@ -13,3 +13,9 @@ See the examples here:
 
 ![image](https://github.com/user-attachments/assets/d61189e0-9457-401f-84c5-d8c6c127ce46)
 
+## DB Diagram:
+
+![UMLDiagram](https://github.com/user-attachments/assets/bffcd45e-7f87-4a25-9e32-7f99b82caf3e)
+
+
+
